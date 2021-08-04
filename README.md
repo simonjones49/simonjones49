@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and Android
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Android System
-- 📫 How to reach me @simonjones49
+- 📫 How to reach me simon_jones49@yahoo.es
 
 <!---
 simonjones49/simonjones49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
